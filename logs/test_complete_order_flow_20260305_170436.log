@@ -1,0 +1,9 @@
+2026-03-05 17:04:36,539 - INFO - Test started
+2026-03-05 17:04:36,540 - INFO - Logging in
+2026-03-05 17:04:41,651 - INFO - Login successful
+2026-03-05 17:04:41,652 - INFO - Adding product: Sauce Labs Backpack
+2026-03-05 17:04:45,327 - INFO - Product verified in cart
+2026-03-05 17:04:46,598 - INFO - Checkout page opened
+2026-03-05 17:04:52,059 - INFO - Checkout details entered
+2026-03-05 17:04:55,309 - INFO - Order completed successfully
+2026-03-05 17:04:55,309 - INFO - Test finished successfully

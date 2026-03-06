@@ -1,0 +1,2 @@
+[32mINFO    [0m test_complete_order_flow:test_e2e_flow.py:15 Test started
+[32mINFO    [0m test_complete_order_flow:test_e2e_flow.py:20 Logging in

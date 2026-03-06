@@ -1,0 +1,9 @@
+[32mINFO    [0m test_complete_order_flow:test_e2e_flow.py:15 Test started
+[32mINFO    [0m test_complete_order_flow:test_e2e_flow.py:20 Logging in
+[32mINFO    [0m test_complete_order_flow:test_e2e_flow.py:27 Login successful
+[32mINFO    [0m test_complete_order_flow:test_e2e_flow.py:30 Adding product: Sauce Labs Backpack
+[32mINFO    [0m test_complete_order_flow:test_e2e_flow.py:37 Product verified in cart
+[32mINFO    [0m test_complete_order_flow:test_e2e_flow.py:40 Checkout page opened
+[32mINFO    [0m test_complete_order_flow:test_e2e_flow.py:44 Checkout details entered
+[32mINFO    [0m test_complete_order_flow:test_e2e_flow.py:49 Order completed successfully
+[32mINFO    [0m test_complete_order_flow:test_e2e_flow.py:51 Test finished successfully
